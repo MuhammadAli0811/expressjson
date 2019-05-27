@@ -22,4 +22,9 @@ app.post("/user/app",(req,res) => {
     res.send("Rounting data by post method insert")
 })
 
+
+app.get("/user/:id",(req,res) => {
+    res.send("hi users"+req.params.id);
+})
+
 app.listen(3000,() => console.log("Go at http://localhost:3000") )
