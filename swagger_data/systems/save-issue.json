@@ -1,0 +1,11 @@
+{
+    "system_id": 451,
+    "issues": [
+      {
+        "message": "There are single balls present in the netlist: netA",
+        "level": "E",
+        "type": "V:N"
+      }
+    ],
+    "type": "V:N"
+  }

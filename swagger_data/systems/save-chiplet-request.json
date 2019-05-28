@@ -1,0 +1,302 @@
+{
+  "system_id": 469,
+  "chiplet_info": {
+    "id": 80,
+    "x": 1035,
+    "y": 5720,
+    "rotation": 0,
+    "sys_chip_id": 8145,
+    "viewtype": "Other",
+    "bumps": [
+      {
+        "id": 1588,
+        "tiles": [
+          {
+            "row": 8,
+            "col": 11
+          },
+          {
+            "row": 8,
+            "col": 12
+          },
+          {
+            "row": 8,
+            "col": 13
+          },
+          {
+            "row": 9,
+            "col": 11
+          },
+          {
+            "row": 9,
+            "col": 12
+          },
+          {
+            "row": 9,
+            "col": 13
+          },
+          {
+            "row": 10,
+            "col": 11
+          },
+          {
+            "row": 10,
+            "col": 12
+          },
+          {
+            "row": 10,
+            "col": 13
+          }
+        ]
+      },
+      {
+        "id": 1589,
+        "tiles": [
+          {
+            "row": 18,
+            "col": 11
+          },
+          {
+            "row": 18,
+            "col": 12
+          },
+          {
+            "row": 18,
+            "col": 13
+          },
+          {
+            "row": 19,
+            "col": 11
+          },
+          {
+            "row": 19,
+            "col": 12
+          },
+          {
+            "row": 19,
+            "col": 13
+          },
+          {
+            "row": 20,
+            "col": 11
+          },
+          {
+            "row": 20,
+            "col": 12
+          },
+          {
+            "row": 20,
+            "col": 13
+          }
+        ]
+      },
+      {
+        "id": 1590,
+        "tiles": [
+          {
+            "row": 18,
+            "col": 15
+          },
+          {
+            "row": 18,
+            "col": 16
+          },
+          {
+            "row": 18,
+            "col": 17
+          },
+          {
+            "row": 19,
+            "col": 15
+          },
+          {
+            "row": 19,
+            "col": 16
+          },
+          {
+            "row": 19,
+            "col": 17
+          },
+          {
+            "row": 20,
+            "col": 15
+          },
+          {
+            "row": 20,
+            "col": 16
+          },
+          {
+            "row": 20,
+            "col": 17
+          }
+        ]
+      },
+      {
+        "id": 1591,
+        "tiles": [
+          {
+            "row": 8,
+            "col": 15
+          },
+          {
+            "row": 8,
+            "col": 16
+          },
+          {
+            "row": 8,
+            "col": 17
+          },
+          {
+            "row": 9,
+            "col": 15
+          },
+          {
+            "row": 9,
+            "col": 16
+          },
+          {
+            "row": 9,
+            "col": 17
+          },
+          {
+            "row": 10,
+            "col": 15
+          },
+          {
+            "row": 10,
+            "col": 16
+          },
+          {
+            "row": 10,
+            "col": 17
+          }
+        ]
+      }
+    ],
+    "schematicInfo": {
+      "x": 0,
+      "y": 0,
+      "pins": [
+        {
+          "net_id": null,
+          "series_net_id": null,
+          "series_netname": null,
+          "series_type": "",
+          "series_rpriority": null,
+          "netname": null,
+          "rpriority": null,
+          "rdir": null,
+          "rval": null,
+          "value": null,
+          "type": null,
+          "net_io_id": 133224,
+          "pnum": "4",
+          "driver": 0,
+          "ubumpid": 174,
+          "io_attached": false,
+          "col": "",
+          "connectedPeripherals": [],
+          "name": "GND",
+          "sigt": "V"
+        },
+        {
+          "net_id": null,
+          "series_net_id": null,
+          "series_netname": null,
+          "series_type": "",
+          "series_rpriority": null,
+          "netname": null,
+          "rpriority": null,
+          "rdir": null,
+          "rval": null,
+          "value": null,
+          "type": null,
+          "net_io_id": 133225,
+          "pnum": "3",
+          "driver": 0,
+          "ubumpid": 175,
+          "io_attached": false,
+          "col": "",
+          "connectedPeripherals": [],
+          "name": "VDD",
+          "sigt": "V"
+        },
+        {
+          "net_id": null,
+          "series_net_id": null,
+          "series_netname": null,
+          "series_type": "",
+          "series_rpriority": null,
+          "netname": null,
+          "rpriority": null,
+          "rdir": null,
+          "rval": null,
+          "value": null,
+          "type": null,
+          "net_io_id": 133226,
+          "pnum": "1",
+          "driver": 0,
+          "ubumpid": 176,
+          "io_attached": false,
+          "col": "",
+          "connectedPeripherals": [],
+          "name": "GND",
+          "sigt": "V"
+        },
+        {
+          "net_id": null,
+          "series_net_id": null,
+          "series_netname": null,
+          "series_type": "",
+          "series_rpriority": null,
+          "netname": null,
+          "rpriority": null,
+          "rdir": null,
+          "rval": null,
+          "value": null,
+          "type": null,
+          "net_io_id": 133227,
+          "pnum": "2",
+          "driver": 0,
+          "ubumpid": 177,
+          "io_attached": false,
+          "col": "",
+          "connectedPeripherals": [],
+          "name": "CLK_OUT",
+          "sigt": "DO"
+        }
+      ]
+    },
+    "chip_netlist": [
+      {
+        "id": 80,
+        "bump_id": 1588,
+        "netname": null,
+        "ubumpid": 176
+      },
+      {
+        "id": 80,
+        "bump_id": 1590,
+        "netname": null,
+        "ubumpid": 175
+      },
+      {
+        "id": 80,
+        "bump_id": 1588,
+        "netname": null,
+        "ubumpid": 176
+      },
+      {
+        "id": 80,
+        "bump_id": 1589,
+        "netname": null,
+        "ubumpid": 177
+      }
+    ],
+    "chip_center": {
+      "x": 1455,
+      "y": 4950
+    }
+  },
+  "is_new_chip": false
+}

@@ -1,0 +1,529 @@
+{
+    "success": true,
+    "categories": [
+      {
+        "id": 1,
+        "category": "Sensor"
+      },
+      {
+        "id": 2,
+        "category": "Humidity"
+      },
+      {
+        "id": 3,
+        "category": "Temperature"
+      },
+      {
+        "id": 4,
+        "category": "Biosensor"
+      },
+      {
+        "id": 5,
+        "category": "Light"
+      },
+      {
+        "id": 6,
+        "category": "MCU"
+      },
+      {
+        "id": 7,
+        "category": "PMIC"
+      },
+      {
+        "id": 8,
+        "category": "Ldo"
+      },
+      {
+        "id": 9,
+        "category": "RF"
+      },
+      {
+        "id": 10,
+        "category": "Nfc"
+      },
+      {
+        "id": 11,
+        "category": "Magnetometer"
+      },
+      {
+        "id": 12,
+        "category": "Battery charger"
+      },
+      {
+        "id": 13,
+        "category": "Buck"
+      },
+      {
+        "id": 15,
+        "category": "Reset"
+      },
+      {
+        "id": 16,
+        "category": "Voltage monitor"
+      },
+      {
+        "id": 17,
+        "category": "Supervisor"
+      },
+      {
+        "id": 18,
+        "category": "Audio"
+      },
+      {
+        "id": 19,
+        "category": "Audio codec"
+      },
+      {
+        "id": 20,
+        "category": "Accelerometer"
+      },
+      {
+        "id": 21,
+        "category": "Gnss"
+      },
+      {
+        "id": 22,
+        "category": "Memory"
+      },
+      {
+        "id": 23,
+        "category": "Flash"
+      },
+      {
+        "id": 24,
+        "category": "Touch"
+      },
+      {
+        "id": 25,
+        "category": "Sensor fusion"
+      },
+      {
+        "id": 26,
+        "category": "Other"
+      },
+      {
+        "id": 27,
+        "category": "Mosfet"
+      },
+      {
+        "id": 28,
+        "category": "Clocks"
+      },
+      {
+        "id": 29,
+        "category": "Buck regulator"
+      },
+      {
+        "id": 30,
+        "category": "Boost regulator"
+      },
+      {
+        "id": 31,
+        "category": "Power switch - battery monitor"
+      },
+      {
+        "id": 32,
+        "category": "Ldo & buck regulator"
+      },
+      {
+        "id": 33,
+        "category": "GPIO Expander"
+      },
+      {
+        "id": 34,
+        "category": "Amplifier"
+      },
+      {
+        "id": 35,
+        "category": "FPGA"
+      },
+      {
+        "id": 36,
+        "category": "Miscellaneous"
+      },
+      {
+        "id": 14,
+        "category": "BLE"
+      }
+    ],
+    "chiplets": [
+      {
+        "id": 3,
+        "mpn": "AD8233",
+        "cid": "U14",
+        "company": "Analog Devices",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 4,
+            "chip_category_map": {
+              "id": 4,
+              "chip_id": 3,
+              "category_map_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "mpn": "AS5510-DWLM",
+        "cid": "U93",
+        "company": "AMS",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 11,
+            "chip_category_map": {
+              "id": 14,
+              "chip_id": 13,
+              "category_map_id": 11
+            }
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "mpn": "AT45DB021E-UUN-T",
+        "cid": "U433",
+        "company": "Adesto Technologies",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 6,
+            "sub_category_id": 14,
+            "chip_category_map": {
+              "id": 132,
+              "chip_id": 109,
+              "category_map_id": 36
+            }
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "mpn": "BMM150",
+        "cid": "U2",
+        "company": "BOSCH",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 11,
+            "chip_category_map": {
+              "id": 149,
+              "chip_id": 15,
+              "category_map_id": 11
+            }
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "mpn": "BQ25120A",
+        "cid": "U24",
+        "company": "Texas Instruments",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 7,
+            "sub_category_id": 8,
+            "chip_category_map": {
+              "id": 20,
+              "chip_id": 17,
+              "category_map_id": 8
+            }
+          },
+          {
+            "category_id": 7,
+            "sub_category_id": 13,
+            "chip_category_map": {
+              "id": 19,
+              "chip_id": 17,
+              "category_map_id": 13
+            }
+          },
+          {
+            "category_id": 7,
+            "sub_category_id": 12,
+            "chip_category_map": {
+              "id": 18,
+              "chip_id": 17,
+              "category_map_id": 12
+            }
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "mpn": "BQ25120AYFPT",
+        "cid": "U98",
+        "company": "Texas Instruments",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 7,
+            "sub_category_id": 8,
+            "chip_category_map": {
+              "id": 23,
+              "chip_id": 18,
+              "category_map_id": 8
+            }
+          },
+          {
+            "category_id": 7,
+            "sub_category_id": 12,
+            "chip_category_map": {
+              "id": 21,
+              "chip_id": 18,
+              "category_map_id": 12
+            }
+          },
+          {
+            "category_id": 7,
+            "sub_category_id": 13,
+            "chip_category_map": {
+              "id": 22,
+              "chip_id": 18,
+              "category_map_id": 13
+            }
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "mpn": "MAX30001CWV+T",
+        "cid": "U125",
+        "company": "Maxim Integrated",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 4,
+            "chip_category_map": {
+              "id": 59,
+              "chip_id": 44,
+              "category_map_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "mpn": "MAX30003CWV+T",
+        "cid": "U126",
+        "company": "Maxim Integrated",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 4,
+            "chip_category_map": {
+              "id": 60,
+              "chip_id": 45,
+              "category_map_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "mpn": "MAX31875R0TZS+T",
+        "cid": "U129",
+        "company": "Maxim",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 3,
+            "chip_category_map": {
+              "id": 63,
+              "chip_id": 48,
+              "category_map_id": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "mpn": "MAX86140",
+        "cid": "U23",
+        "company": "Maxim Integrated",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 4,
+            "chip_category_map": {
+              "id": 168,
+              "chip_id": 55,
+              "category_map_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "mpn": "MAX86141ENP+",
+        "cid": "U137",
+        "company": "Maxim Integrated",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 4,
+            "chip_category_map": {
+              "id": 75,
+              "chip_id": 56,
+              "category_map_id": 4
+            }
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "mpn": "MC3672",
+        "cid": "U3",
+        "company": "MCUBE",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 20,
+            "chip_category_map": {
+              "id": 77,
+              "chip_id": 58,
+              "category_map_id": 20
+            }
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "mpn": "MX25R8035FBDIL0",
+        "cid": "U144",
+        "company": "Macronix",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 22,
+            "sub_category_id": 23,
+            "chip_category_map": {
+              "id": 83,
+              "chip_id": 64,
+              "category_map_id": 23
+            }
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "mpn": "NRF52832",
+        "cid": "U6",
+        "company": "NORDIC",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 6,
+            "sub_category_id": 14,
+            "chip_category_map": {
+              "id": 151,
+              "chip_id": 68,
+              "category_map_id": 36
+            }
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "mpn": "OPA2376AIYZDR",
+        "cid": "U170",
+        "company": "Texas Instruments",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 34,
+            "sub_category_id": 36,
+            "chip_category_map": {
+              "id": 88,
+              "chip_id": 69,
+              "category_map_id": 34
+            }
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "mpn": "SIT1552",
+        "cid": "U1",
+        "company": "SITIME",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 28,
+            "sub_category_id": 36,
+            "chip_category_map": {
+              "id": 100,
+              "chip_id": 80,
+              "category_map_id": 28
+            }
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "mpn": "TMP108",
+        "cid": "U9",
+        "company": "Texas Instruments",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 1,
+            "sub_category_id": 3,
+            "chip_category_map": {
+              "id": 108,
+              "chip_id": 88,
+              "category_map_id": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "mpn": "TS4231",
+        "cid": "U428",
+        "company": "Texas Instruments",
+        "datasheet_url": null,
+        "release": "current",
+        "categories": [
+          {
+            "category_id": 6,
+            "sub_category_id": 14,
+            "chip_category_map": {
+              "id": 128,
+              "chip_id": 113,
+              "category_map_id": 36
+            }
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,189 @@
+{
+  "updatedPin": {
+    "net_id": 7818,
+    "series_net_id": null,
+    "net_io_id": 132706,
+    "cid": "U1",
+    "pnum": "4",
+    "pname": "GND",
+    "driver": 0,
+    "ubumpid": 174,
+    "type": "ANAS",
+    "value": "",
+    "bondpad_id": null,
+    "series_type": null,
+    "series_value": null,
+    "rval": null,
+    "rdir": "",
+    "io_attached": false,
+    "rpriority": 1,
+    "series_rpriority": null,
+    "netname": "a1",
+    "series_netname": null,
+    "chip_id": 80,
+    "sys_chip_id": 8092,
+    "col": null,
+    "otg_m_row": null,
+    "otg_m_col": null,
+    "connectedPeripherals": []
+  },
+  "otherPins": [],
+  "netlist": [
+    {
+      "bondpad_id": [],
+      "bondpad_name": [],
+      "bondpad_pnum": [],
+      "netname": "a1",
+      "series_netname": "",
+      "rpriority": 1,
+      "rdir": "",
+      "rval": null,
+      "type": "ANAS",
+      "pnum": "4",
+      "driver": 0,
+      "peripherals": [],
+      "ubumpid": 174,
+      "bumpid": 1591,
+      "cid": "U1",
+      "chip_id": 80,
+      "zcad_ubumpid": "4",
+      "value": "",
+      "pname": "GND",
+      "mpn": "SIT1552",
+      "sigt": "V",
+      "sys_chip_id": 8092,
+      "net_io_id": 132706,
+      "col": null,
+      "sys_chip_type": "NON-FAST",
+      "pin_info": {
+        "actual": {
+          "pnum": "4",
+          "pname": "GND"
+        },
+        "custom": {
+          "pnum": "4",
+          "pname": null
+        }
+      },
+      "otg_m_row": null,
+      "otg_m_col": null
+    },
+    {
+      "bondpad_id": [],
+      "bondpad_name": [],
+      "bondpad_pnum": [],
+      "netname": "",
+      "series_netname": "",
+      "rpriority": "",
+      "rdir": null,
+      "rval": null,
+      "type": "",
+      "pnum": "3",
+      "driver": 0,
+      "peripherals": [],
+      "ubumpid": 175,
+      "bumpid": 1590,
+      "cid": "U1",
+      "chip_id": 80,
+      "zcad_ubumpid": "3",
+      "value": "",
+      "pname": "VDD",
+      "mpn": "SIT1552",
+      "sigt": "V",
+      "sys_chip_id": 8092,
+      "net_io_id": 132707,
+      "col": "",
+      "sys_chip_type": "NON-FAST",
+      "pin_info": {
+        "actual": {
+          "pnum": "3",
+          "pname": "VDD"
+        },
+        "custom": {
+          "pnum": "3",
+          "pname": null
+        }
+      },
+      "otg_m_row": null,
+      "otg_m_col": null
+    },
+    {
+      "bondpad_id": [],
+      "bondpad_name": [],
+      "bondpad_pnum": [],
+      "netname": "",
+      "series_netname": "",
+      "rpriority": "",
+      "rdir": null,
+      "rval": null,
+      "type": "",
+      "pnum": "1",
+      "driver": 0,
+      "peripherals": [],
+      "ubumpid": 176,
+      "bumpid": 1588,
+      "cid": "U1",
+      "chip_id": 80,
+      "zcad_ubumpid": "1",
+      "value": "",
+      "pname": "GND",
+      "mpn": "SIT1552",
+      "sigt": "V",
+      "sys_chip_id": 8092,
+      "net_io_id": 132708,
+      "col": "",
+      "sys_chip_type": "NON-FAST",
+      "pin_info": {
+        "actual": {
+          "pnum": "1",
+          "pname": "GND"
+        },
+        "custom": {
+          "pnum": "1",
+          "pname": null
+        }
+      },
+      "otg_m_row": null,
+      "otg_m_col": null
+    },
+    {
+      "bondpad_id": [],
+      "bondpad_name": [],
+      "bondpad_pnum": [],
+      "netname": "a1",
+      "series_netname": "",
+      "rpriority": 1,
+      "rdir": "",
+      "rval": null,
+      "type": "ANAS",
+      "pnum": "2",
+      "driver": 0,
+      "peripherals": [],
+      "ubumpid": 177,
+      "bumpid": 1589,
+      "cid": "U1",
+      "chip_id": 80,
+      "zcad_ubumpid": "2",
+      "value": "",
+      "pname": "CLK_OUT",
+      "mpn": "SIT1552",
+      "sigt": "DO",
+      "sys_chip_id": 8092,
+      "net_io_id": 132709,
+      "col": null,
+      "sys_chip_type": "NON-FAST",
+      "pin_info": {
+        "actual": {
+          "pnum": "2",
+          "pname": "CLK_OUT"
+        },
+        "custom": {
+          "pnum": "2",
+          "pname": null
+        }
+      },
+      "otg_m_row": null,
+      "otg_m_col": null
+    }
+  ]
+}

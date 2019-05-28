@@ -1,0 +1,703 @@
+{
+    "isError": false,
+    "architectures": [
+      {
+        "id": 1,
+        "name": "Zeus 1",
+        "description": "",
+        "enabled": true,
+        "rowbit": 6,
+        "digital": true,
+        "c2t_e": 0,
+        "c2b_e": 0,
+        "c2l_e": 0,
+        "c2r_e": 0,
+        "c2t_w": 0,
+        "c2b_w": 0,
+        "c2l_w": 0,
+        "c2r_w": 0,
+        "c2c": 250,
+        "otg_b": 8,
+        "createdAt": "2018-07-31T07:52:08.699Z",
+        "updatedAt": "2018-07-31T07:52:12.722Z",
+        "tile_size": [
+          {
+            "id": 1,
+            "rows": 50,
+            "columns": 50,
+            "die_x": 0,
+            "die_y": 0,
+            "createdAt": "2018-07-31T07:52:10.863Z",
+            "updatedAt": "2018-07-31T07:52:10.863Z",
+            "arch_id": 1
+          }
+        ],
+        "rdlmask": []
+      },
+      {
+        "id": 2,
+        "name": "Zeus 2",
+        "description": "",
+        "enabled": true,
+        "rowbit": 6,
+        "digital": true,
+        "c2t_e": 120,
+        "c2b_e": 210,
+        "c2l_e": 230,
+        "c2r_e": 175,
+        "c2t_w": 70,
+        "c2b_w": 160,
+        "c2l_w": 180,
+        "c2r_w": 125,
+        "c2c": 200,
+        "otg_b": 8,
+        "createdAt": "2018-07-31T07:52:08.699Z",
+        "updatedAt": "2018-07-31T07:52:12.725Z",
+        "tile_size": [
+          {
+            "id": 2,
+            "rows": 24,
+            "columns": 44,
+            "die_x": 5.36,
+            "die_y": 4.08,
+            "createdAt": "2018-07-31T07:52:10.863Z",
+            "updatedAt": "2018-07-31T07:52:10.863Z",
+            "arch_id": 2
+          },
+          {
+            "id": 3,
+            "rows": 28,
+            "columns": 44,
+            "die_x": 5.36,
+            "die_y": 4.48,
+            "createdAt": "2018-07-31T07:52:10.863Z",
+            "updatedAt": "2018-07-31T07:52:10.863Z",
+            "arch_id": 2
+          },
+          {
+            "id": 4,
+            "rows": 36,
+            "columns": 44,
+            "die_x": 5.36,
+            "die_y": 5.28,
+            "createdAt": "2018-07-31T07:52:10.863Z",
+            "updatedAt": "2018-07-31T07:52:10.863Z",
+            "arch_id": 2
+          },
+          {
+            "id": 5,
+            "rows": 64,
+            "columns": 44,
+            "die_x": 5.36,
+            "die_y": 8.08,
+            "createdAt": "2018-07-31T07:52:10.863Z",
+            "updatedAt": "2018-07-31T07:52:10.863Z",
+            "arch_id": 2
+          }
+        ],
+        "rdlmask": [
+          {
+            "id": 1,
+            "name": "NRF-CHICAGO",
+            "arch_id": 2,
+            "createdAt": "2018-07-31T07:52:11.093Z",
+            "updatedAt": "2018-07-31T07:52:11.093Z",
+            "rdlmask_map": [
+              {
+                "id": 13,
+                "tile_id": null,
+                "row": 0,
+                "col": 26,
+                "pnum": "B5",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 14,
+                "tile_id": null,
+                "row": 0,
+                "col": 22,
+                "pnum": "A5",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 15,
+                "tile_id": null,
+                "row": 0,
+                "col": 30,
+                "pnum": "A4",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 16,
+                "tile_id": null,
+                "row": 0,
+                "col": 34,
+                "pnum": "B4",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 17,
+                "tile_id": null,
+                "row": 0,
+                "col": 38,
+                "pnum": "B3",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 18,
+                "tile_id": null,
+                "row": 0,
+                "col": 42,
+                "pnum": "A3",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 1,
+                "tile_id": null,
+                "row": 0,
+                "col": 8,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 2,
+                "tile_id": null,
+                "row": 0,
+                "col": 9,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 3,
+                "tile_id": null,
+                "row": 0,
+                "col": 10,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 4,
+                "tile_id": null,
+                "row": 0,
+                "col": 11,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 5,
+                "tile_id": null,
+                "row": 0,
+                "col": 12,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 6,
+                "tile_id": null,
+                "row": 0,
+                "col": 13,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 7,
+                "tile_id": null,
+                "row": 0,
+                "col": 14,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 8,
+                "tile_id": null,
+                "row": 0,
+                "col": 15,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 9,
+                "tile_id": null,
+                "row": 0,
+                "col": 16,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 10,
+                "tile_id": null,
+                "row": 0,
+                "col": 17,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 11,
+                "tile_id": null,
+                "row": 0,
+                "col": 18,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              },
+              {
+                "id": 12,
+                "tile_id": null,
+                "row": 0,
+                "col": 19,
+                "pnum": "A7",
+                "rdlmask_id": 1,
+                "createdAt": "2018-07-31T07:52:11.244Z",
+                "updatedAt": "2018-07-31T07:52:11.244Z"
+              }
+            ],
+            "rdlmask_chips": [
+              {
+                "id": 1,
+                "rdlmask_id": 1,
+                "x": 2900,
+                "y": 800,
+                "rot": 180,
+                "chip_id": 68,
+                "mcu": true,
+                "rdlmask_chip_ios": [
+                  {
+                    "id": 1,
+                    "pnum": "G6",
+                    "name": "RDLSX_NFC1",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 2,
+                    "pnum": "G5",
+                    "name": "RDLSX_NFC2",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 3,
+                    "pnum": "F5",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 4,
+                    "pnum": "E3",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 5,
+                    "pnum": "D2",
+                    "name": "RDLPX_RF_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 6,
+                    "pnum": "D1",
+                    "name": "RDLSX_RF_OUT",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 7,
+                    "pnum": "C5",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 8,
+                    "pnum": "C4",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 9,
+                    "pnum": "C2",
+                    "name": "RDLPX_DEC3",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 10,
+                    "pnum": "B7",
+                    "name": "RDLPX_DEC1",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 11,
+                    "pnum": "B6",
+                    "name": "RDLPX_DCC",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 12,
+                    "pnum": "B2",
+                    "name": "RDLSX_XC1",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 13,
+                    "pnum": "A6",
+                    "name": "RDLPX_DEC4",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 14,
+                    "pnum": "A2",
+                    "name": "RDLPX_DEC2",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 1
+                  },
+                  {
+                    "id": 15,
+                    "pnum": "A1",
+                    "name": "RDLSX_XC2",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 1
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "rdlmask_id": 1,
+                "x": 1150,
+                "y": 5150,
+                "rot": 0,
+                "chip_id": 17,
+                "mcu": false,
+                "rdlmask_chip_ios": [
+                  {
+                    "id": 16,
+                    "pnum": "D5",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 17,
+                    "pnum": "C5",
+                    "name": "RDLPX_BQ25120A_LDO",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 18,
+                    "pnum": "C4",
+                    "name": "RDLPX_BQ25120A_VINLS",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 19,
+                    "pnum": "B5",
+                    "name": "RDLPX_BQ25120A_SYS",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 20,
+                    "pnum": "B4",
+                    "name": "RDLPX_BQ25120A_VINLS",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 21,
+                    "pnum": "B3",
+                    "name": "RDLPX_BQ25100A_PMID",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 22,
+                    "pnum": "B2",
+                    "name": "RDLPX_BQ25120A_BATT",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 23,
+                    "pnum": "B1",
+                    "name": "RDLPX_BQ25120A_BATT",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 24,
+                    "pnum": "A5",
+                    "name": "RDLPX_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 25,
+                    "pnum": "A4",
+                    "name": "RDLPX_BQ25120A_SW",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 26,
+                    "pnum": "A3",
+                    "name": "RDLPX_BQ25100A_PMID",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 27,
+                    "pnum": "A2",
+                    "name": "RDLPX_BQ25120A_IN",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 3
+                  },
+                  {
+                    "id": 28,
+                    "pnum": "A1",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 3
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "rdlmask_id": 1,
+                "x": 3650,
+                "y": 5350,
+                "rot": 90,
+                "chip_id": 55,
+                "mcu": false,
+                "rdlmask_chip_ios": [
+                  {
+                    "id": 29,
+                    "pnum": "D3",
+                    "name": "RDLP_GND",
+                    "type": "GND",
+                    "rdlmask_chip_id": 2
+                  },
+                  {
+                    "id": 30,
+                    "pnum": "D1",
+                    "name": "RDLSX_LED_DRV1",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 2
+                  },
+                  {
+                    "id": 31,
+                    "pnum": "C1",
+                    "name": "RDLSX_LED_DRV2",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 2
+                  },
+                  {
+                    "id": 32,
+                    "pnum": "B1",
+                    "name": "RDLSX_LED_DRV3",
+                    "type": "RDLSX",
+                    "rdlmask_chip_id": 2
+                  },
+                  {
+                    "id": 33,
+                    "pnum": "A1",
+                    "name": "RDLPX_VLED",
+                    "type": "RDLPX",
+                    "rdlmask_chip_id": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "peripherals": [
+      {
+        "id": 13,
+        "name": "Resistor",
+        "unit": null,
+        "description": null,
+        "identifier": "RESISTOR",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": null,
+        "createdAt": "2018-09-15T00:08:58.893Z",
+        "updatedAt": "2018-09-15T00:08:58.893Z"
+      },
+      {
+        "id": 14,
+        "name": "Capacitor",
+        "unit": null,
+        "description": null,
+        "identifier": "CAPACITOR",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": null,
+        "createdAt": "2018-09-15T00:08:58.893Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 15,
+        "name": "Vdd",
+        "unit": null,
+        "description": null,
+        "identifier": "VDD",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": null,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 16,
+        "name": "Ground",
+        "unit": null,
+        "description": null,
+        "identifier": "GND",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": null,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 18,
+        "name": "LDO",
+        "unit": null,
+        "description": null,
+        "identifier": "LDO",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 114,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 19,
+        "name": "HVLDO",
+        "unit": null,
+        "description": null,
+        "identifier": "HVLDO",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 115,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 20,
+        "name": "BOOST",
+        "unit": null,
+        "description": null,
+        "identifier": "BOOST",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 116,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 21,
+        "name": "Level Translator",
+        "unit": null,
+        "description": null,
+        "identifier": "LT",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 117,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 22,
+        "name": "GPIO Expander",
+        "unit": null,
+        "description": null,
+        "identifier": "GPIO_EXP",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 118,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 23,
+        "name": "LED Driver",
+        "unit": null,
+        "description": null,
+        "identifier": "LED_DRIVER",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 119,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 17,
+        "name": "Fast Controller",
+        "unit": null,
+        "description": null,
+        "identifier": "FC",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": 95,
+        "createdAt": "2018-09-15T00:08:58.894Z",
+        "updatedAt": "2018-09-15T00:08:58.894Z"
+      },
+      {
+        "id": 24,
+        "name": "IO",
+        "unit": null,
+        "description": null,
+        "identifier": "BIDIRECTIONAL",
+        "arch_id": 2,
+        "role_type": 2,
+        "chip_id": null,
+        "createdAt": "2018-12-13T21:52:22.974Z",
+        "updatedAt": "2018-12-13T21:52:22.974Z"
+      }
+    ]
+  }

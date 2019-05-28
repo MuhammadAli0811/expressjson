@@ -1,0 +1,119 @@
+{
+    "x_dim": 0.84,
+    "y_dim": 1.54,
+    "z_dim": 0.6,
+    "description": "",
+    "mpn": "ZGLUETEST01",
+    "company": "zGlue",
+    "cid": "U561",
+    "num_balls": "1",
+    "qualified_sys": null,
+    "qualified_fw": null,
+    "status": "enabled",
+    "release": "internal",
+    "chipletCerts": {
+      "1": {
+        "id": 1,
+        "name": "Certified by System",
+        "value": false
+      },
+      "2": {
+        "id": 2,
+        "name": "Certified by Firmware",
+        "value": false
+      },
+      "3": {
+        "id": 3,
+        "name": "Tested on System",
+        "value": false
+      }
+    },
+    "updateChipletCerts": null,
+    "url": "",
+    "datasheet_url": "",
+    "share_status": "public",
+    "share_data": {},
+    "account_id": 1,
+    "chip_ios": [
+      {
+        "pnum": "4",
+        "pname": "GND",
+        "sigt": "V",
+        "io_mech": "BALLL",
+        "diameter": 0.315,
+        "x_pos": 0.205,
+        "y_pos": 0.5,
+        "RDL": null,
+        "BYP": null,
+        "HCD": null,
+        "HF": null,
+        "HV": null,
+        "MCUgnd": null,
+        "RAS": null,
+        "VSW": null,
+        "isDeleted": false
+      },
+      {
+        "pnum": "3",
+        "pname": "VDD",
+        "sigt": "V",
+        "io_mech": "BALL",
+        "diameter": 0.315,
+        "x_pos": 0.205,
+        "y_pos": -0.5,
+        "RDL": null,
+        "BYP": null,
+        "HCD": null,
+        "HF": null,
+        "HV": null,
+        "MCUgnd": null,
+        "RAS": null,
+        "VSW": null,
+        "isDeleted": false
+      },
+      {
+        "pnum": "1",
+        "pname": "GND",
+        "sigt": "V",
+        "io_mech": "BALL",
+        "diameter": 0.315,
+        "x_pos": -0.215,
+        "y_pos": 0.5,
+        "RDL": null,
+        "BYP": null,
+        "HCD": null,
+        "HF": null,
+        "HV": null,
+        "MCUgnd": null,
+        "RAS": null,
+        "VSW": null,
+        "isDeleted": false
+      },
+      {
+        "pnum": "2",
+        "pname": "CLK_OUT",
+        "sigt": "V",
+        "io_mech": "BALL",
+        "diameter": 0.315,
+        "x_pos": -0.205,
+        "y_pos": -0.5,
+        "RDL": null,
+        "BYP": null,
+        "HCD": null,
+        "HF": null,
+        "HV": null,
+        "MCUgnd": null,
+        "RAS": null,
+        "VSW": null,
+        "isDeleted": false
+      }
+    ],
+    "chip_categories": [],
+    "mouse_position": {
+      "pageX": 1285,
+      "pageY": 448
+    },
+    "created_by": "james@zglue.com",
+    "currentRole": "admin",
+    "user": "james@zglue.com"
+  }

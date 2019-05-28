@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "x_dim_mm": "0.77000",
+      "y_dim_mm": "1.34000",
+      "z_dim_mm": "0.60000",
+      "company": "Sensirion",
+      "mpn": "1-101484-01",
+      "cid": "",
+      "num_balls": 4,
+      "qualified_sys": true,
+      "last_qualified_sys": "2018-08-30T21:03:24.700Z",
+      "last_qualified_sys_by": null,
+      "qualified_fw": true,
+      "last_qualified_fw": "2018-08-30T21:03:25.013Z",
+      "last_qualified_fw_by": null,
+      "deleted": false,
+      "last_deleted": null,
+      "last_deleted_by": null,
+      "last_updated_by": null,
+      "status": "suggested",
+      "release": "future",
+      "created_by": null,
+      "description": null,
+      "datasheet_url": null,
+      "url": null,
+      "share_status": "public",
+      "account_id": 1,
+      "createdAt": "2018-07-31T07:52:09.163Z",
+      "updatedAt": "2018-07-31T07:52:09.163Z"
+    }
+  ]

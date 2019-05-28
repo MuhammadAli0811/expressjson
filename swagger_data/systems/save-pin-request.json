@@ -1,0 +1,36 @@
+{
+  "pin_info": {
+    "checkNetnameType": false,
+    "checkSeriesNetnameType": false,
+    "isModal": false,
+    "net_io_id": 132706,
+    "isFast": false,
+    "forceRemoveNetId": false,
+    "nets": {
+      "sys_id": 469,
+      "type": "ANAS",
+      "rpriority": 1,
+      "netname": "a1",
+      "col": null
+    },
+    "series_nets": {
+      "sys_id": 469,
+      "netname": null
+    },
+    "net_ios": {
+      "value": "",
+      "LDO": null,
+      "pnum": "4",
+      "driver": 0,
+      "rval": null,
+      "rdir": null,
+      "io_attached": false,
+      "sys_chip_id": 8092,
+      "bump_id": 1591,
+      "otg_m_row": null,
+      "otg_m_col": null,
+      "cid": "U1"
+    },
+    "peripherals": []
+  }
+}

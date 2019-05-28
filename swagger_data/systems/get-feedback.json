@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "feedbacks": [
+      {
+        "id": 1,
+        "subject": "Test",
+        "type": "feedback",
+        "description": "Testing purposes",
+        "created_by": "clement@zglue.com",
+        "createdAt": "2019-02-13T01:32:55.820Z",
+        "updatedAt": "2019-02-13T01:32:55.820Z"
+      },
+      {
+        "id": 2,
+        "subject": "ffrfe",
+        "type": null,
+        "description": "fgvf",
+        "created_by": null,
+        "createdAt": "2019-04-25T08:49:10.994Z",
+        "updatedAt": "2019-04-25T08:49:10.994Z"
+      },
+      {
+        "id": 3,
+        "subject": "test",
+        "type": null,
+        "description": "Verifying 'Have a question' bar. ",
+        "created_by": null,
+        "createdAt": "2019-05-14T05:11:49.131Z",
+        "updatedAt": "2019-05-14T05:11:49.131Z"
+      }
+    ]
+  }

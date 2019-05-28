@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Zeus 1",
+      "description": "",
+      "enabled": true,
+      "rowbit": 6,
+      "digital": true,
+      "c2t_e": 0,
+      "c2b_e": 0,
+      "c2l_e": 0,
+      "c2r_e": 0,
+      "c2t_w": 0,
+      "c2b_w": 0,
+      "c2l_w": 0,
+      "c2r_w": 0,
+      "c2c": 250,
+      "otg_b": 8,
+      "createdAt": "2018-07-31T07:52:08.699Z",
+      "updatedAt": "2018-07-31T07:52:12.722Z"
+    },
+    {
+      "id": 2,
+      "name": "Zeus 2",
+      "description": "",
+      "enabled": true,
+      "rowbit": 6,
+      "digital": true,
+      "c2t_e": 120,
+      "c2b_e": 210,
+      "c2l_e": 230,
+      "c2r_e": 175,
+      "c2t_w": 70,
+      "c2b_w": 160,
+      "c2l_w": 180,
+      "c2r_w": 125,
+      "c2c": 200,
+      "otg_b": 8,
+      "createdAt": "2018-07-31T07:52:08.699Z",
+      "updatedAt": "2018-07-31T07:52:12.725Z"
+    }
+  ]

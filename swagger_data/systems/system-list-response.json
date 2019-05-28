@@ -1,0 +1,249 @@
+{
+  "systems": [
+    {
+      "id": 467,
+      "name": "sys-create-swagger",
+      "description": "",
+      "createdAt": "2019-05-15T11:29:40.206Z",
+      "updatedAt": "2019-05-15T11:29:40.206Z",
+      "created_by": "james@zglue.com",
+      "account_id": 1,
+      "is_active": true,
+      "tile_grid": {
+        "rows": 64,
+        "columns": 44,
+        "architecture": {
+          "name": "Zeus 2"
+        }
+      },
+      "sys_chips": [
+        {
+          "id": 8046,
+          "type": "FAST",
+          "chip": {
+            "mpn": "GPIO Expander"
+          }
+        },
+        {
+          "id": 8045,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Power Supply"
+          }
+        },
+        {
+          "id": 8044,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Interface"
+          }
+        },
+        {
+          "id": 8043,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Smart Fabric Control"
+          }
+        },
+        {
+          "id": 8042,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 3"
+          }
+        },
+        {
+          "id": 8041,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Push Button Control"
+          }
+        },
+        {
+          "id": 8040,
+          "type": "FAST",
+          "chip": {
+            "mpn": "FAST_BP_LEFT"
+          }
+        },
+        {
+          "id": 8039,
+          "type": "FAST",
+          "chip": {
+            "mpn": "FAST_BP_RIGHT"
+          }
+        },
+        {
+          "id": 8049,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 2"
+          }
+        },
+        {
+          "id": 8048,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 1"
+          }
+        },
+        {
+          "id": 8047,
+          "type": "FAST",
+          "chip": {
+            "mpn": "LED Driver"
+          }
+        }
+      ],
+      "status": {
+        "id": 1
+      }
+    },
+    {
+      "id": 465,
+      "name": "Test - 15May2019",
+      "description": "",
+      "createdAt": "2019-05-15T10:44:42.782Z",
+      "updatedAt": "2019-05-15T11:24:27.467Z",
+      "created_by": "james@zglue.com",
+      "account_id": 1,
+      "is_active": true,
+      "tile_grid": {
+        "rows": 64,
+        "columns": 44,
+        "architecture": {
+          "name": "Zeus 2"
+        }
+      },
+      "sys_chips": [
+        {
+          "id": 8013,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Interface"
+          }
+        },
+        {
+          "id": 8009,
+          "type": "FAST",
+          "chip": {
+            "mpn": "FAST_BP_LEFT"
+          }
+        },
+        {
+          "id": 8011,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 3"
+          }
+        },
+        {
+          "id": 8019,
+          "type": "NON-FAST",
+          "chip": {
+            "mpn": "SIT1552"
+          }
+        },
+        {
+          "id": 8008,
+          "type": "FAST",
+          "chip": {
+            "mpn": "FAST_BP_RIGHT"
+          }
+        },
+        {
+          "id": 8010,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Push Button Control"
+          }
+        },
+        {
+          "id": 8012,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Smart Fabric Control"
+          }
+        },
+        {
+          "id": 8014,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Power Supply"
+          }
+        },
+        {
+          "id": 8016,
+          "type": "FAST",
+          "chip": {
+            "mpn": "LED Driver"
+          }
+        },
+        {
+          "id": 8018,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 2"
+          }
+        },
+        {
+          "id": 8021,
+          "type": "NON-FAST",
+          "chip": {
+            "mpn": "NRF52832"
+          }
+        },
+        {
+          "id": 8017,
+          "type": "FAST",
+          "chip": {
+            "mpn": "Level Shifter 1"
+          }
+        },
+        {
+          "id": 8015,
+          "type": "FAST",
+          "chip": {
+            "mpn": "GPIO Expander"
+          }
+        }
+      ],
+      "status": {
+        "id": 1
+      }
+    }
+  ],
+  "systemFilter": {
+    "user_id": "james@zglue.com",
+    "filter": "STATUS_PRIVATE"
+  },
+  "systemStatus": [
+    {
+      "id": 1,
+      "name": "Private",
+      "identifier": "STATUS_PRIVATE"
+    },
+    {
+      "id": 2,
+      "name": "Share",
+      "identifier": "STATUS_SHARE"
+    },
+    {
+      "id": 3,
+      "name": "Publish",
+      "identifier": "STATUS_PUBLISH"
+    }
+  ],
+  "lastOpenedSystems": [
+    {
+      "id": 467,
+      "user_id": "james@zglue.com",
+      "last_updated": "2019-05-15T11:29:46.716Z",
+      "sys_id": 467,
+      "sys": {
+        "id": 467,
+        "name": "sys-create-swagger"
+      }
+    }
+  ]
+}
